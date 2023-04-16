@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cansel/c_programs/A7_1/build",
+  "command": "/usr/bin/gcc  -I/home/cansel/c_programs/A7_1/include  -g   -o CMakeFiles/a7_1.dir/src/A7_1.c.o   -c /home/cansel/c_programs/A7_1/src/A7_1.c",
+  "file": "/home/cansel/c_programs/A7_1/src/A7_1.c"
+}
+]

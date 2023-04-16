@@ -1,0 +1,14 @@
+
+Schreiben Sie ein C-Programm 
+Anforderungen erfüllt:
+
+Im Hauptprogramm sollen 5 Integerzahlen eingelesen
+werden (benutzen Sie hierzu ein Array). In jeweils
+separaten Funktionen soll
+
+- das Produkt
+- der Maximalwert und
+- der arithmetischer Mittelwert
+dieser fünf Zahlen berechnet und an das Hauptprogramm
+zurückgegeben werden. Dort soll dann auch die Ausgabe
+erfolgen
