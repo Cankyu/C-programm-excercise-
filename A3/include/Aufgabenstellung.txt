@@ -1,0 +1,16 @@
+
+Schreiben Sie zur Umrechnung von Grad Celsius in Grad
+Fahrenheit eine C-Funktion fahrenheit(c), welche als
+Parameter eine reelle Zahl c hat (Temperatur in Grad Celsius)
+und als Rückgabewert c*9/5+32 liefert.
+Betten Sie diese Funktion in ein Testprogramm ein, welches
+eine reelle Zahl (Temperatur in Grad Celsius) einliest, die
+Funktion fahrenheit mit dieser Zahl als Argument aufruft und
+den Funktionswert auf dem Bildschirm ausgibt. Falls die
+eingegebene Zahl kleiner als -273.15 ist (absoluter
+Temperaturnullpunkt) soll eine Fehlermeldung ausgegeben
+werden.
+Der Programmdialog soll wie folgt aussehen (Eingaben sind
+unterstrichen):
+Geben Sie eine Temperatur in Grad Celsius ein: 0.0
+0.00 Grad Celsius = 32.00 Grad Fahrenheit
