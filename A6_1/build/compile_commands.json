@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/cansel/c_programs/A6_1/build",
+  "command": "/usr/bin/gcc  -I/home/cansel/c_programs/A6_1/include  -g   -o CMakeFiles/a6_1.dir/src/A6_1.c.o   -c /home/cansel/c_programs/A6_1/src/A6_1.c",
+  "file": "/home/cansel/c_programs/A6_1/src/A6_1.c"
+},
+{
+  "directory": "/home/cansel/c_programs/A6_1/build",
+  "command": "/usr/bin/gcc  -I/home/cansel/c_programs/A6_1/include  -g   -o CMakeFiles/a6_1.dir/src/comp.c.o   -c /home/cansel/c_programs/A6_1/src/comp.c",
+  "file": "/home/cansel/c_programs/A6_1/src/comp.c"
+},
+{
+  "directory": "/home/cansel/c_programs/A6_1/build",
+  "command": "/usr/bin/gcc  -I/home/cansel/c_programs/A6_1/include  -g   -o CMakeFiles/a6_1.dir/src/par.c.o   -c /home/cansel/c_programs/A6_1/src/par.c",
+  "file": "/home/cansel/c_programs/A6_1/src/par.c"
+},
+{
+  "directory": "/home/cansel/c_programs/A6_1/build",
+  "command": "/usr/bin/gcc  -I/home/cansel/c_programs/A6_1/include  -g   -o CMakeFiles/a6_1.dir/src/player.c.o   -c /home/cansel/c_programs/A6_1/src/player.c",
+  "file": "/home/cansel/c_programs/A6_1/src/player.c"
+}
+]

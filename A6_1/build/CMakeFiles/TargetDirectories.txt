@@ -1,0 +1,3 @@
+/home/cansel/c_programs/A6_1/build/CMakeFiles/rebuild_cache.dir
+/home/cansel/c_programs/A6_1/build/CMakeFiles/edit_cache.dir
+/home/cansel/c_programs/A6_1/build/CMakeFiles/a6_1.dir

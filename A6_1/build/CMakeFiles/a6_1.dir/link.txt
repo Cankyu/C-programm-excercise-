@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/a6_1.dir/src/A6_1.c.o CMakeFiles/a6_1.dir/src/comp.c.o CMakeFiles/a6_1.dir/src/par.c.o CMakeFiles/a6_1.dir/src/player.c.o  -o a6_1  -lm 

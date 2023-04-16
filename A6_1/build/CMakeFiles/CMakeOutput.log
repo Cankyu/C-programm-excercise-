@@ -1,0 +1,55 @@
+The system is: Linux - 5.10.16.3-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/cansel/c_programs/A6_1/build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/cansel/c_programs/A6_1/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/cansel/c_programs/A6_1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b4357/fast && /usr/bin/make -f CMakeFiles/cmTC_b4357.dir/build.make CMakeFiles/cmTC_b4357.dir/build
+make[1]: Entering directory '/mnt/c/Users/kalka/Documents/C Programme/A6_1/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b4357.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_b4357.dir/testCCompiler.c.o   -c /home/cansel/c_programs/A6_1/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b4357
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4357.dir/link.txt --verbose=1
+/usr/bin/gcc      CMakeFiles/cmTC_b4357.dir/testCCompiler.c.o  -o cmTC_b4357 
+make[1]: Leaving directory '/mnt/c/Users/kalka/Documents/C Programme/A6_1/build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/cansel/c_programs/A6_1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ed13e/fast && /usr/bin/make -f CMakeFiles/cmTC_ed13e.dir/build.make CMakeFiles/cmTC_ed13e.dir/build
+make[1]: Entering directory '/mnt/c/Users/kalka/Documents/C Programme/A6_1/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ed13e.dir/testCXXCompiler.cxx.o
+/usr/bin/g++     -o CMakeFiles/cmTC_ed13e.dir/testCXXCompiler.cxx.o -c /home/cansel/c_programs/A6_1/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_ed13e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed13e.dir/link.txt --verbose=1
+/usr/bin/g++       CMakeFiles/cmTC_ed13e.dir/testCXXCompiler.cxx.o  -o cmTC_ed13e 
+make[1]: Leaving directory '/mnt/c/Users/kalka/Documents/C Programme/A6_1/build/CMakeFiles/CMakeTmp'
+
+
+
